@@ -2,19 +2,19 @@
 x = True
 y = False
 
-print(f"x and y: {x and y}")   # False
-print(f"x or y: {x or y}")     # True
-print(f"not x: {not x}")       # False
-print(f"not y: {not y}")       # True
+print(f"x and y: {x and y}")  # False
+print(f"x or y: {x or y}")  # True
+print(f"not x: {not x}")  # False
+print(f"not y: {not y}")  # True
 
 
 a = 5
 b = 10
 c = 15
 
-print(f"\n{a} < {b} and {b} < {c}: {a < b and b < c}")      # True
-print(f"{a} > {b} or {b} < {c}: {a > b or b < c}")         # True
-print(f"not ({a} < {b}): {not (a < b)}")                   # False
+print(f"\n{a} < {b} and {b} < {c}: {a < b and b < c}")  # True
+print(f"{a} > {b} or {b} < {c}: {a > b or b < c}")  # True
+print(f"not ({a} < {b}): {not (a < b)}")  # False
 
 # Table de true complete
 print("\nTabla de true AND:")

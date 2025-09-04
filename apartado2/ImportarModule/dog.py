@@ -1,0 +1,2 @@
+def Dog():
+    return "Woof!"

@@ -1,3 +1,4 @@
+# CREATED LIST
 dict = {"name": "lucas", "age": 30, "city": "dalton"}
 letters = "hi jose"
 
@@ -24,3 +25,6 @@ for letter in letters:
 
 number_Duplicate = [1, 2, 3, 4, 5]
 print([X * 2 for X in number_Duplicate])
+
+
+#

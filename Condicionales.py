@@ -38,14 +38,13 @@ if 5 > 6:
     print(f"5 > 6: True")
 else:
     print(f"5 > 6: False")
-    
+
 
 monthly_entry = 5000
 
-if(monthly_entry>=5000):
+if monthly_entry >= 5000:
     print("You can apply for the credit card")
-elif(monthly_entry>=10000):
+elif monthly_entry >= 10000:
     print("You can apply for the premium credit card")
 else:
     print("You cannot apply for the credit card")
-    

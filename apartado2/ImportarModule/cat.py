@@ -1,0 +1,2 @@
+def Cat():
+    return "Meow!"

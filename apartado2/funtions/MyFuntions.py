@@ -38,6 +38,7 @@ def created_Password(num):
 print(created_Password(1))
 
 
+# *args utils number params
 def my_sum(*nums):
     return sum(nums)
 
